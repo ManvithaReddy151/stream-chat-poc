@@ -1,5 +1,5 @@
 import type { ChannelFilters, ChannelSort, User } from 'stream-chat';
-import React from 'react';
+//import React from 'react';
 import {
   Chat,
   Channel,
