@@ -5,6 +5,10 @@ declare module 'stream-chat' {
     image?: string;
     name?: string;
     url?: string;
+    entityType?: string;
+    entityId?: string;
+    status?: string;
+    address?: string;
   }
 
   interface CustomChannelData extends DefaultChannelData {
